@@ -6,7 +6,7 @@ This repository contains all the tasks completed as part of the **CodSoft Web De
 
 ##  Task List
 
-### 🔹 Task 1: Portfolio Website
+###  Task 1: Portfolio Website
 
 A personal portfolio website built using HTML and CSS.
 
@@ -52,7 +52,7 @@ A creative and responsive landing page designed using HTML and CSS.
 
 ---
 
-### 🔹 Task 3: Calculator
+###  Task 3: Calculator
 
 A basic calculator built using HTML, CSS, and JavaScript.
 
